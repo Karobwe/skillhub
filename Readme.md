@@ -3,11 +3,6 @@
 You can find bellow different projects that showcase my dev skills.
 
 
-
-## Table of content
-
-{:toc}
-
 ----
 
 
